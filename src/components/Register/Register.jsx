@@ -162,7 +162,7 @@ export const Register = ({switchAuthAndler}) => {
             Formularios no controlados (DOM)
             Formularios controlados (RECOMENDABLE EN REACT) (Virtual DOM)
          */}
-         <Logo text={"Register KinalCast"} />
+         <Logo text={"VoidLin Store"} />
         <form 
             className='auth-form' 
             action=''

@@ -73,7 +73,7 @@ export const Login = ({switchAuthHandler}) => {
   }
   return (
     <div className="login-container">
-      <Logo text={"Login KinalCast"} />
+      <Logo text={"VoidLin Store"} />
       <form 
         name='form1'
         className="auth-form"
